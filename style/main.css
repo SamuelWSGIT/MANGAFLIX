@@ -1,0 +1,173 @@
+:root{
+    --vermelho:#E50914;
+    --preta:#141414;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--preta);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+/*elementos base*/
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+}
+
+
+header .logo{
+    margin-left: 5px;
+    color: var(--vermelho);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+}
+
+header nav a:hover{
+    color:#fff;
+    transition: .5s ease all;
+}
+
+/*filme principal*/
+
+.filme-principal{
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)), url('/img/banner.jpg');
+    
+    height:400px;
+    background-size:cover;
+
+    display: flex;
+    flex-direction: column; /* deixa o flex- direction em colunas na vertical */
+    justify-content: center; /* centraliza os elementos no meio da div */
+    align-items: flex-start; /* alinha os itens a esquerda */
+}
+
+.filme-principal .descricao{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-size: 13px;
+}
+
+.filme-principal .titulo{
+    margin-top: 15%;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+.container .titulo{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50));
+
+    height:40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: fit-content;
+    background-size:cover;
+    text-align: center;
+
+}
+
+.carrosel-filmes .titulo{
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    background-color: black;
+
+    background-size:cover;
+    padding: 5px 5px 5px 5px;
+}
+
+.filme-principal .container .generos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    
+    border: none;
+
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.filme-principal .container .generos .genero{
+    background-color: rgba(0,0,0,.50);
+    margin-right: 15px;
+    padding: 5px;
+}
+
+.filme-principal .container .generos .genero:hover{ /* sempre que passar o mouse por icma do botao ele vai executar uma alteração */
+    background-color: white;
+    color: black;
+
+    cursor: pointer; /*  sempre que passarem o mouse por cima do botao, ele vai mudar o cursos para ponteiro */
+    transition: .5s ease all; /* cria a transição entre uma animação e outra */
+}
+
+.box-filme{
+    width: 40px;
+}
+
+.botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer; /*  sempre que passarem o mouse por cima do botao, ele vai mudar o cursos para ponteiro */
+    transition: .5s ease all; /* cria a transição entre uma animação e outra */
+}
+
+.botao:hover{ /* sempre que passar o mouse por icma do botao ele vai executar uma alteração */
+    background-color: white;
+    color: black;
+}
+
+.botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 20px;
+}
+
+.container nav{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 60%;
+}
+
+.item p{
+    background-color: black;
+    border: none;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
