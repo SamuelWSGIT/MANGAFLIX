@@ -1,2 +1,2 @@
 # MANGALIX
-versão do Netlfix de mangas.
+Versão do Netlfix de mangas.
