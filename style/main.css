@@ -165,3 +165,21 @@ header nav a:hover{
     width: 100%;
     display: block;
 }
+.owl-item :hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    padding: 3px;
+    cursor: pointer; /*  sempre que passarem o mouse por cima do botao, ele vai mudar o cursos para ponteiro */
+    transition: .3s ease all; /* cria a transição entre uma animação e outra */
+}
+footer.links {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+footer.links a{
+    font-size: 11px;
+    color: #fff;
+}
