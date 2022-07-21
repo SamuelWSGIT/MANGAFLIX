@@ -1,5 +1,5 @@
 
-![Logo do projeto](https://github.com/SamuelWSGIT/Instagram-copia/blob/main/img/imagensProjetos/logo.png)
+![Logo do projeto](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/logo.png)
 
 
 ## WorkSpace Samuel Almeida
@@ -11,28 +11,30 @@ Aqui estão as tecnologias que foram usadas no projeto.
 * Visual Studio Code versão 1.69.2
 * Html 5
 * CSS 3
+* JavaScript
 
 ## Serviços Usados
 
 * Github
+* Owl carousel
 
 ## Visualização
 
 ### 1 - Home page (1080x920)
 
-![Homepage image](https://github.com/SamuelWSGIT/Instagram-copia/blob/main/img/imagensProjetos/instagram_1080x920.png)
+![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/mangaflix_1080x920.png)
 
-### 2 - Home page (900x700)
+### 2 - Home page (900x750)
 
-![Homepage image](https://github.com/SamuelWSGIT/Instagram-copia/blob/main/img/imagensProjetos/instagram_900x700.png)
+![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/mangaflix_900x750.png)
 
 ### 3 - Home page (800x800)
 
-![Homepage image](https://github.com/SamuelWSGIT/Instagram-copia/blob/main/img/imagensProjetos/instagram_800x800.png)
+![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/mangaflix_800x800.png)
 
 ### 4 - Home page (350x600)
 
-![Homepage image](https://github.com/SamuelWSGIT/Instagram-copia/blob/main/img/imagensProjetos/instagram_350x600.png)
+![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/mangaflix_350x600.png)
 
 ## Características
 A principal funcionadade desse repositorio :
