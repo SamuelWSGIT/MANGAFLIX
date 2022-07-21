@@ -36,6 +36,12 @@ Aqui estão as tecnologias que foram usadas no projeto.
 
 ![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/mangaflix_350x600.png)
 
+### 5 - Interações (:hover)
+
+![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/funsão_sobre.png)
+![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/funsão_sobre2.png)
+![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/funsão_sobre4.png)
+
 ## Características
 A principal funcionadade desse repositorio :
  - Publicar minhas criações.
