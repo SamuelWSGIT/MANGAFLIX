@@ -5,9 +5,11 @@
 ## WorkSpace Samuel Almeida
 Esse e a minha work space \o/ aproveite e espero que aprenda bastante.
 
-## Technology 
-Aqui estão as tecnologias que foram usadas no projeto.
 
+## Projeto MANGAFLIX
+# https://samuelws-projetocss.netlify.app
+
+## Technology 
 * Visual Studio Code versão 1.69.2
 * Html 5
 * CSS 3
