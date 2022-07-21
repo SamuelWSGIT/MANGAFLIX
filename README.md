@@ -36,10 +36,18 @@ Aqui estão as tecnologias que foram usadas no projeto.
 
 ![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/mangaflix_350x600.png)
 
-### 5 - Interações (:hover)
+### 5.1 - Interações (:hover)
 
 ![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/funsão_sobre.png)
+
+### 5.2 - Interações (:hover)
+
+
 ![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/funsão_sobre2.png)
+
+### 5.3 - Interações (:hover)
+
+
 ![Homepage image](https://github.com/SamuelWSGIT/MANGAFLIX/blob/main/img/MANGAFLIX/funsão_sobre4.png)
 
 ## Características
